@@ -17,7 +17,7 @@ steps:
     resourceGroupName: 'AZtestPipelinerg'
     location: 'Central US'
     templateLocation: 'Linked artifact'
-    csmFile: 'CreateAzureStorage/azuredeploy.json'
+    csmFile: 'createazurestorage/azuredeploy.json'
     deploymentMode: 'Incremental'
 
 
